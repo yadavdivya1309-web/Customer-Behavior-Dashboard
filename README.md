@@ -1,4 +1,5 @@
 📊 End-to-End Customer Behavior & Revenue Analytics Pipeline
+
 📖 Project Overview
 This project establishes a complete data engineering and analytics pipeline to evaluate customer purchasing patterns, subscription structures, and revenue distributions. Utilizing a dataset of 3,900 distinct customer transactions, the pipeline transitions raw data through programmatic cleaning, relational database engineering, and executive-level business intelligence dashboards to uncover actionable retail insights.
 
